@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>周剑辉的博客</title>
+  
+  <subtitle>辉常说</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zhoujianhui.github.io/"/>
+  <updated>2018-07-11T18:02:54.553Z</updated>
+  <id>http://zhoujianhui.github.io/</id>
+  
+  <author>
+    <name>周剑辉</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="http://zhoujianhui.github.io/2018/07/12/test/"/>
+    <id>http://zhoujianhui.github.io/2018/07/12/test/</id>
+    <published>2018-07-11T17:28:45.962Z</published>
+    <updated>2018-07-11T18:02:54.553Z</updated>
+    
+    <summary type="html">
+    
+      Welcome to [Hexo](https://hexo.io/)! This is your very first post.
+    
+    </summary>
+    
+      <category term="心情" scheme="http://zhoujianhui.github.io/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="Test" scheme="http://zhoujianhui.github.io/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zhoujianhui.github.io/2018/07/11/hello-world/"/>
+    <id>http://zhoujianhui.github.io/2018/07/11/hello-world/</id>
+    <published>2018-07-11T08:10:14.869Z</published>
+    <updated>2018-07-11T08:10:14.869Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
